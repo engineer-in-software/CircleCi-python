@@ -16,8 +16,8 @@ jobs:
   deploy:
     docker:
       - image: cimg/python:3.11
-    steps:
-      - run: echo "Deploting to production"
+    step
+      - run: echo "Deploying to production"
 
 workflows:
   build_and_test_and_deploy:
