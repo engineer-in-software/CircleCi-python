@@ -4,7 +4,7 @@ def to_upper(name):
 
 def say_hello(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hello, {name}')  # Press ⌘F8 to toggle the breakpoint.
+    print(f'Hello {name}, your name is getting converted text into upper case ')  # Press ⌘F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
